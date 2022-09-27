@@ -20,7 +20,6 @@ body {
     font-size: 48px;
 }
 
-
 #seo {
     color: #d9dcd6;
 }
@@ -44,7 +43,7 @@ body {
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none
 }
 
 p {
@@ -93,7 +92,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 .benefits {
     margin-right: 20px;
