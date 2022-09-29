@@ -9,6 +9,8 @@ The motivation behind this project was to undersant and learn the functionality 
 
 N/A
 
+## Useage
+
 ```md
 ![First screen shot of the HTML code](assets/images/HTML%20Screen%20shot%201.png)
 ```md
