@@ -36,11 +36,6 @@ body header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 a {
     color: #ffffff;
     text-decoration: none
@@ -50,6 +45,10 @@ p {
     font-size: 16px;
 }
 
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
 .hero {
     height: 800px;
     width: 100%;
@@ -59,15 +58,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 main {
     width: 75%;
@@ -91,6 +81,16 @@ main section img {
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 aside {
